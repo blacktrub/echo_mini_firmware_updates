@@ -34,3 +34,7 @@ $ source venv/bin/activate
 $ python main.py
 ```
 
+## Check the result
+
+You can check out the result in my telegram channel: [t.me/echo_mini_firmware_updates](t.me/echo_mini_firmware_updates)
+
